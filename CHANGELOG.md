@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/thelinguist/pipes/compare/v1.4.0...v1.5.0) (2023-05-25)
+
+
+### Features
+
+* **frontend:** did cleanup ([#1](https://github.com/thelinguist/pipes/issues/1)) ([0ee5f1b](https://github.com/thelinguist/pipes/commit/0ee5f1bb94f7191e006eaf24584d8506e0ca9849))
+
 # [1.4.0](https://github.com/thelinguist/pipes/compare/v1.3.0...v1.4.0) (2023-05-25)
 
 
