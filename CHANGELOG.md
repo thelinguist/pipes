@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/thelinguist/pipes/compare/v1.3.0...v1.4.0) (2023-05-25)
+
+
+### Features
+
+* clarification on value ([462656a](https://github.com/thelinguist/pipes/commit/462656a6d214d47c4e45444e761ad30b579ffea0))
+
 # [1.1.0](https://github.com/thelinguist/pipes/compare/v1.0.0...v1.1.0) (2023-05-25)
 
 
